@@ -2,4 +2,5 @@ Cloud computing refers to the ease with which a useer can acccess cloud service 
   AWS,GCP are cloud computing platforms where according to our needs we can acces service to create, deploy or applications, access server , infra and other things.
   It is divided in 2 types - deployment model and service model
 Deployment model has 3 subtypes-IAAS,SAAS,PAAS
+PAAS- Platform as a service is a model which provides a virtual platform to run our apps . Ex ; AWS LAMBDA
   Service model also has 4 types - Public, Hybrid,Private,Community
